@@ -15,4 +15,4 @@
 - **Precision:** float16  
 
 ## Examples
-
+![image](./example.png)
