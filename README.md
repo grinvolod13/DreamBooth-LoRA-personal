@@ -13,6 +13,8 @@
 - **Gradient accumulation:** 1  
 - **Device:** GPU (`cuda`)  
 - **Precision:** float16  
-
+## Outputs:
+* [Train Colab notebook](https://colab.research.google.com/drive/1aX3tFmZ-T3QjKdXt2id_RdCLtFgb-lGP)
+* [HuggingFace LoRA model](https://huggingface.co/grinvolod/lora-personal) 
 ## Examples
 ![image](./example.png)
