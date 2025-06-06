@@ -1,6 +1,4 @@
-# Computer Vision Course Assignment:
-DreamBooth Personalization with Diffusers &
-LoRA
+# Computer Vision Course Assignment: DreamBooth Personalization with Diffusers & LoRA
 
 ## Training Summary
 
@@ -13,7 +11,6 @@ LoRA
 - **Batch size:** 2  
 - **Learning rate:** 1e-4 (constant scheduler)  
 - **Gradient accumulation:** 1  
-- **Gradient checkpointing:** enabled  
 - **Device:** GPU (`cuda`)  
 - **Precision:** float16  
 
